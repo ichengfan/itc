@@ -13,7 +13,4 @@ Autumn, 2023
 
 
 
-16 lectues.
-
-
-
+16 lectures.

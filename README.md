@@ -1,7 +1,5 @@
 # itc
-Course lecture notes
-
-CS1602: Introduction to Computation
+# CS1602: Introduction to Computation
 
 
 

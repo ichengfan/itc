@@ -1,17 +1,13 @@
 # CS1602: Introduction to Computation
-Fan Cheng
+程帆
+
+上海交通大学计算机系
 
 chengfan85@gmail.com
 
-Department Of Computer Science and Engineering
-
-Shanghai Jiao Tong University
-
-Autumn, 2023
-
 ---
 
-《计算导论》课程主要面向零起点的大学一年级新生，无专业背景要求。
+CS1602《计算导论》课程主要面向零起点的大学一年级新生，无专业背景要求。
 
 从计算文化、计算语言、计算工具、以及问题求解四个方面培养本科生对计算科学与工具的使用能力。致力于改善目前本科生由于区域背景、教育环境差异巨大，计算能力参差不齐的局面。熟练掌握现代专业的计算工具的使用。为未来计算机及其它学科的学习，补齐短板。
 

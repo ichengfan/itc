@@ -1,6 +1,8 @@
 # CS1602: Introduction to Computation
 程帆
 
+信息与计算实验室 (Information and Computing Lab)
+
 上海交通大学计算机系
 
 chengfan85@gmail.com

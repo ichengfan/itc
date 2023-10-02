@@ -20,21 +20,37 @@ CS1602《计算导论》课程主要面向零起点的大学一年级新生，�
 ## 课程大纲 
 
 1. Introduction
+
 2. Fundamental (I)
+
 3. Fundamental (II)
+
 4. Condition, Loop and Function
+
 5. Recursion
+
 6. List
+
 7. Tuple, Dict, String and Set
+
 8. Problems
+
 9. Class and Module (I)
+
 10. Class and Module (II)
+
 11. Complexity
+
 12. Random and File
+
 13. Pythonic
+
 14. FP and LEGB
+
 15. Multi Processing
+
 16. Review
+
     (由于国庆假期，可能会减少一个学时)
 
 ## 工具类

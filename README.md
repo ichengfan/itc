@@ -27,11 +27,11 @@ CS1602《计算导论》课程主要面向零起点的大学一年级新生，�
 
 4. Condition, Loop and Function
 
-5. Recursion
+5. List
 
-6. List
+6. Tuple, Dict, String and Set
 
-7. Tuple, Dict, String and Set
+7. Recursion
 
 8. Problems
 
@@ -47,7 +47,7 @@ CS1602《计算导论》课程主要面向零起点的大学一年级新生，�
 
 14. FP and LEGB
 
-15. Multi Processing
+15. Multi Taksing and RE
 
 16. Review
 

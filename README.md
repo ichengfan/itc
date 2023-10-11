@@ -39,7 +39,7 @@ CS1602《计算导论》课程主要面向零起点的大学一年级新生，�
 
 10. Class and Module (II)
 
-11. Complexity
+11. Complexity and Exception
 
 12. Random and File
 

@@ -47,7 +47,7 @@ CS1602《计算导论》课程主要面向零起点的大学一年级新生，�
 
 14. FP and LEGB
 
-15. Multi Taksing and RE
+15. Multitaksing and RE
 
 16. Review
 

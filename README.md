@@ -1,4 +1,4 @@
-# CS1602: Introduction to Computation
+# CS1602: Introduction to Computing
 程帆
 
 信息与计算实验室 (Information and Computing Lab)

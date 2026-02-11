@@ -63,4 +63,4 @@ CS1602《计算导论》课程主要面向零起点的大学一年级新生，�
 ## 课程视频
 
 1. 交大内部可以OC看课堂录像
-2. Bilibili: fcieee
+2. Bilibili: [fcieee](https://space.bilibili.com/170218655?spm_id_from=333.788.upinfo.head.click)
